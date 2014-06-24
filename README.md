@@ -1,5 +1,5 @@
-Dodson-Greek-Lexicon
-====================
+Jeffrey Dodson's Greek Lexicon
+===============================
 
 This repository is based on Ulrik Sandborg-Petersen's conversion of
 Jeffrey Dodson's lexicon.  See README-ulrikp.txt for details on
